@@ -1,2 +1,2 @@
-# reactjs-resume
+# ReactJS Resume
 Resume built with ReactJS

@@ -1,0 +1,122 @@
+{
+	"name": "Faisal Ahmed",
+	"about": "I am a self taught web application developer from Dhaka, Bangladesh. I love learning new technologies and develop new and interesting projects.",
+	"contact": [
+		{"type": "phone", "icon": "fa fa-mobile", "content": "+8801711805769"},
+		{"type": "email", "icon": "fa fa-envelope", "content": "thephpx@gmail.com"},
+		{"type": "web", "icon": "fab fa-wordpress", "content": "thephpx.wordpress.com"},
+		{"type": "skype", "icon": "fab fa-skype", "content": "thephpx"}
+	],
+	"experience": [
+		{
+			"designation": "Remote Software Developer",
+			"organization": "Self-Employed",
+			"from": "Jan, 2018",
+			"to": "Till date"
+		},
+		{
+			"designation": "Senior Software Engineer",
+			"organization": "MVI Solutions Limited",
+			"from": "Sep, 2015",
+			"to": "Sep, 2017"
+		},
+		{
+			"designation": "Senior Software Engineer",
+			"organization": "Korea MTS",
+			"from": "Feb, 2015",
+			"to": "Aug, 2015"
+		},
+		{
+			"designation": "Software Developer",
+			"organization": "Implode Impressions Ltd",
+			"from": "Feb, 2011",
+			"to": "Dec, 2014"
+		}
+	],
+	"academic": [
+		{
+			"title": "Masters of Business Administration",
+			"institute": "BRAC University",
+			"year": 2007
+		},
+		{
+			"title": "Bachelor of Business Administration",
+			"institute": "BRAC University",
+			"year": 2012
+		}
+	],
+	"projects": [
+		{
+			"name": "Hotel Area Guide",
+			"link": "https://www.hotelareaguide.com/",
+			"highlights": [
+				"Custom web application for hotel guest directory.",
+				"API integration: Google Map and Places API, Paypal API",
+				"Built with: Laravel, PHP, MySQL, ReactJS, jQuery, Bootstrap"
+			]
+		},
+		{
+			"name": "Memon ID",
+			"link": "http://www.memonid.com/",
+			"highlights": [
+				"Custom community portal phase 1 for the memon community of India.",
+				"Custom API development for mobile application.",
+				"Built with: CodeIgniter, PHP, MySQL, jQuery, Bootstrap"
+			]
+		},
+		{
+			"name": "Sunco Tanning",
+			"link": "https://www.suncotanning.com/",
+			"highlights": [
+				"Redevelopment of the site using WooCommerce.",
+				"Google merchant feed integration.",
+				"Built with: Wordpress, WooCommerce, PHP, MySQL, jQuery, Bootstrap"
+			]
+		},
+		{
+			"name": "Ace Pump and Supply",
+			"link": "https://www.acepumpandsupply.com/",
+			"highlights": [
+				"Custom Theme Development.",
+				"Multi-lingual Support.",
+				"Built with: Wordpress, jQuery, Bootstrap"
+			]
+		}
+	],
+	"certifications": [
+		{
+			"title": "Agile with Atlassian Jira",
+			"institute": "Coursera.org",
+			"link": "https://www.coursera.org/account/accomplishments/verify/FWSHVN8WEB54"
+		},
+		{
+			"title": "Software Processes and Agile Practices, University of Albarta",
+			"institute": "Coursera.org",
+			"link": "https://www.coursera.org/account/accomplishments/verify/RLPQE2M5WG56"
+		},
+		{
+			"title": "Agile Planning for Software Products, University of Albarta",
+			"institute": "Coursera.org",
+			"link": "https://www.coursera.org/account/accomplishments/verify/NG2URPMEBPKG"
+		},
+		{
+			"title": "Introduction to Software Product Management, University of Albarta",
+			"institute": "Coursera.org",
+			"link": "https://www.coursera.org/account/accomplishments/verify/N5TPSJBRYTT9"
+		},
+		{
+			"title": "LPI Linux Essential Certified",
+			"institute": "Linux Professional Institute",
+			"link": "http://lpi.org/v/LPI000380532/gh2ysw5dsz"
+		},
+		{
+			"title": "Certified SCRUM Master",
+			"institute": "SCRUM Alliance",
+			"link": "https://www.scrumalliance.org/community/profile/fahmed21"
+		}
+	],
+	"references": [
+		{ "name": "Saif Mahmood", "designation": "Managing Direct", "organization": "MVI Solutions Limited", "email": "saif@mvisolutions.com" },
+		{ "name": "Omar Faruk", "designation": "Software Engineer", "organization": "mytheresa GmbH", "email": "tofarukomar@gmail.com" }
+	]
+}

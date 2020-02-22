@@ -1,0 +1,180 @@
+*{
+	font-family: Tahoma;
+	color:#333;
+}
+body{
+	/*background:url('../bg.jpg') !important;*/
+}
+a, a i.fas{
+	color:#666;
+}
+
+a:hover, a:hover i.fas{
+	color:#2079c7;	
+}
+
+#resume-header{
+	margin-top:10px;
+}
+#resume-body{
+}
+.section-header{
+	text-transform: uppercase;
+	margin:25px 0;
+	font-size: 1em;
+	color:#2079c7;	
+	font-weight: normal;
+}
+#intro h1{
+	font-family: 'EB Garamond', serif;
+	font-size: 42pt;
+	font-weight: bold;
+}
+#intro p{
+	text-align: justify;
+	font-size: 1em;
+}
+#contact {
+	margin-top:10px;
+}
+#contact ul{
+	margin:0px;
+	padding:0px;
+}
+#contact ul li{
+	font-size: 1em;
+	margin:0px;
+	padding:1px 0px;
+	list-style-type: none;
+	color:#666666;
+}
+
+#contact ul li span{
+	font-size: 1em;
+	color:#666666;	
+}
+
+#experiences .experience{
+	margin:15px 0;
+}
+#experiences .experience .experience-header h3{
+	font-size: 1em;
+}
+#experiences .experience .experience-header .duration{
+	text-align: left;
+	font-size: .8em;
+	text-transform: uppercase;
+	color:#666666;	
+}
+#experiences .experience .link{
+	font-size: small;
+}
+
+
+#experiences .experience .experience-body ul{
+	margin:5px 0;
+}
+#experiences .experience .experience-body ul li{
+	color:#666666;	
+}
+
+#educations .education{
+	margin:15px 0;
+}
+#educations .education .education-header h3{
+	font-size: 1em;
+}
+#educations .education .education-header .duration{
+	text-align: left;
+	font-size: .8em;
+	text-transform: uppercase;
+	color:#666666;	
+}
+#educations .education .link{
+	font-size: small;
+}
+
+#certifications .certificate{
+	margin:15px 0;
+}
+#certifications .certificate .certificate-header h3{
+	font-size: 1em;
+}
+#certifications .certificate .certificate-header .duration{
+	text-align: left;
+	font-size: .8em;
+	text-transform: uppercase;
+	color:#666666;	
+}
+#certifications .certificate .link{
+	font-size: small;
+}
+
+#skills ul{
+	margin:0px;
+	padding:0px;
+}
+#skills ul li{
+	margin:0px;
+	padding:3px 0px;
+	list-style-type: none;
+	color:#666666;
+}
+
+#profiles ul{
+	margin:0px;
+	padding:0px;
+}
+#profiles ul li{
+	margin:0px;
+	padding:3px 0px;
+	list-style-type: none;
+	color:#666666;
+}
+
+#references .reference{
+	margin:15px 0;
+}
+
+#projects .project{
+	margin:15px 0;
+}
+#projects .project .project-header h3{
+	font-size: 1em;
+}
+#projects .project .project-header .duration{
+	text-align: left;
+	font-size: .8em;
+	text-transform: uppercase;
+	color:#666666;	
+}
+#projects .project .project-body ul{
+	margin:5px 0;
+}
+#projects .project .project-body ul li{
+	color:#666666;	
+}
+#projects .project .link{
+	font-size: medium;
+}
+
+
+
+#contributions .contribution{
+	margin:15px 0;
+}
+#contributions .contribution .contribution-header h3{
+	font-size: 1em;
+}
+#contributions .contribution .contribution-header .duration{
+	text-align: left;
+	font-size: .8em;
+	text-transform: uppercase;
+	color:#666666;	
+}
+#contributions .contribution .contribution-body ul{
+	margin:5px 0;
+}
+#contributions .contribution .contribution-body ul li{
+	color:#666666;	
+}
