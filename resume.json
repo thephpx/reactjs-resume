@@ -47,6 +47,13 @@
 	],
 	"projects": [
 		{
+			"name": "NPM Package - Administrative Geography of Bangladesh in JSON",
+			"link": "https://github.com/thephpx/bangladesh",
+			"highlights": [
+				"Provides helper methods to represent the administrative geography of Bangladesh."
+			]
+		},
+		{
 			"name": "Hotel Area Guide",
 			"link": "https://www.hotelareaguide.com/",
 			"highlights": [
